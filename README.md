@@ -1,1 +1,0 @@
-# helloworld-on-selfhosted-vm

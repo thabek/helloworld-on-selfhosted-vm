@@ -1,0 +1,26 @@
+# Git
+.git
+.gitignore
+
+# Pliki środowiskowe i sekrety
+.env
+.env.*
+!.env.example
+
+# Zależności lokalne
+vendor/
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# Logi
+*.log
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Dokumentacja i pliki lokalne
+README.md

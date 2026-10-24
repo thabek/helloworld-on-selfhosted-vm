@@ -1,0 +1,12 @@
+{
+    "name": "arttrix/helloworld",
+    "type": "project",
+    "require": {
+        "php": "^8.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Application\\": "src/"
+        }
+    }
+}
